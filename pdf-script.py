@@ -6,4 +6,4 @@
 ## Usage ./pdf-script.py burp-collaborator-url
 ##
 ## most times, output will be written as: test1.pdf, test2.pdf, test3.pdf and test4.pdf
-##
+## let's start:
